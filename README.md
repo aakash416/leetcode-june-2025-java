@@ -7,6 +7,8 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | Day  | Problem Name             | Solution File                  | LeetCode Link                                      |
 |------|--------------------------|--------------------------------|----------------------------------------------------|
 | 01 | Distribute Candies Among Children II | [Day01_DistributeCandiesAmongChildrenII.java](Day01_DistributeCandiesAmongChildrenII.java) | [🔗 LeetCode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
+| 02 | Candy | [Day02_Candy.java](Day02_Candy.java) | [🔗 LeetCode](https://leetcode.com/problems/candy/) |
+
 
 
 
