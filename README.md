@@ -9,6 +9,8 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 01 | Distribute Candies Among Children II | [Day01_DistributeCandiesAmongChildrenII.java](Day01_DistributeCandiesAmongChildrenII.java) | [🔗 LeetCode](https://leetcode.com/problems/distribute-candies-among-children-ii/) |
 | 02 | Candy | [Day02_Candy.java](Day02_Candy.java) | [🔗 LeetCode](https://leetcode.com/problems/candy/) |
 | 03 | Maximum Candies You Can Get from Boxes | [Day03_MaximumCandiesYouCanGetFromBoxes.java](Day03_MaximumCandiesYouCanGetFromBoxes.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) |
+| 04 | Find the Lexicographically Largest String From the Box I | [Day04_LexicographicallyLargestStringFromBoxI.java](Day04_LexicographicallyLargestStringFromBoxI.java) | [🔗 LeetCode](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i) |
+
 
 
 
