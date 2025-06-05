@@ -10,6 +10,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 02 | Candy | [Day02_Candy.java](Day02_Candy.java) | [🔗 LeetCode](https://leetcode.com/problems/candy/) |
 | 03 | Maximum Candies You Can Get from Boxes | [Day03_MaximumCandiesYouCanGetFromBoxes.java](Day03_MaximumCandiesYouCanGetFromBoxes.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/) |
 | 04 | Find the Lexicographically Largest String From the Box I | [Day04_LexicographicallyLargestStringFromBoxI.java](Day04_LexicographicallyLargestStringFromBoxI.java) | [🔗 LeetCode](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i) |
+| 05 | Lexicographically Smallest Equivalent String | [Day05_LexicographicallySmallestEquivalentString.java](Day05_LexicographicallySmallestEquivalentString.java) | [🔗 LeetCode](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) |
 
 
 
