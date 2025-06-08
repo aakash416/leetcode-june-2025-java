@@ -13,6 +13,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 05 | Lexicographically Smallest Equivalent String | [Day05_LexicographicallySmallestEquivalentString.java](Day05_LexicographicallySmallestEquivalentString.java) | [🔗 LeetCode](https://leetcode.com/problems/lexicographically-smallest-equivalent-string) |
 | 06 | Using a Robot to Print the Lexicographically Smallest String | [Day06_RobotPrintLexicographicallySmallestString.java](Day06_RobotPrintLexicographicallySmallestString.java) | [🔗 LeetCode](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) |
 | 07 | Lexicographically Minimum String After Removing Stars | [Day07_LexicographicallyMinimumStringAfterRemovingStars.java](Day07_LexicographicallyMinimumStringAfterRemovingStars.java) | [🔗 LeetCode](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) |
+| 08 | Lexicographical Numbers | [Day08_LexicographicalNumbers.java](Day08_LexicographicalNumbers.java) | [🔗 LeetCode](https://leetcode.com/problems/lexicographical-numbers) |
 
 
 
