@@ -15,7 +15,8 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 07 | Lexicographically Minimum String After Removing Stars | [Day07_LexicographicallyMinimumStringAfterRemovingStars.java](Day07_LexicographicallyMinimumStringAfterRemovingStars.java) | [🔗 LeetCode](https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars) |
 | 08 | Lexicographical Numbers | [Day08_LexicographicalNumbers.java](Day08_LexicographicalNumbers.java) | [🔗 LeetCode](https://leetcode.com/problems/lexicographical-numbers) |
 | 09 | K-th Smallest in Lexicographical Order | [Day09_KthSmallestInLexicographicalOrder.java](Day09_KthSmallestInLexicographicalOrder.java) | [🔗 LeetCode](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/) |
-| 010 | Maximum Difference Between Even and Odd Frequency I | [Day10_MaxDifferenceBetweenEvenAndOddFrequency.java](Day10_MaxDifferenceBetweenEvenAndOddFrequency.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) |
+| 10 | Maximum Difference Between Even and Odd Frequency I | [Day10_MaxDifferenceBetweenEvenAndOddFrequency.java](Day10_MaxDifferenceBetweenEvenAndOddFrequency.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) |
+| 11 | Maximum Difference Between Even and Odd Frequency II | [Day11_MaxDifferenceEvenOddFreqII.java](Day11_MaxDifferenceEvenOddFreqII.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii) |
 
 
 
