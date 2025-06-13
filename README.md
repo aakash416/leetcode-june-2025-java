@@ -18,6 +18,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 10 | Maximum Difference Between Even and Odd Frequency I | [Day10_MaxDifferenceBetweenEvenAndOddFrequency.java](Day10_MaxDifferenceBetweenEvenAndOddFrequency.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/) |
 | 11 | Maximum Difference Between Even and Odd Frequency II | [Day11_MaxDifferenceEvenOddFreqII.java](Day11_MaxDifferenceEvenOddFreqII.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii) |
 | 12 | 3423. Maximum Difference Between Adjacent Elements in a Circular Array | [Day12_MaxCircularAdjacentDiff.java](Day12_MaxCircularAdjacentDiff.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| 13 | 2616. Minimize the Maximum Difference of Pairs | [Day13_MinimizeMaxPairDiff.java](Day13_MinimizeMaxPairDiff.java) | [🔗 LeetCode](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) |
 
 
 
