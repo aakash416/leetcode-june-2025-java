@@ -20,6 +20,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 12 | 3423. Maximum Difference Between Adjacent Elements in a Circular Array | [Day12_MaxCircularAdjacentDiff.java](Day12_MaxCircularAdjacentDiff.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | 13 | 2616. Minimize the Maximum Difference of Pairs | [Day13_MinimizeMaxPairDiff.java](Day13_MinimizeMaxPairDiff.java) | [🔗 LeetCode](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs) |
 | 14 | 2566. Maximum Difference by Remapping a Digit | [DAy14_MaxDifferenceAfterDigitRemap.java](DAy14_MaxDifferenceAfterDigitRemap.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-by-remapping-a-digit) |
+| 15 | 1432. Max Difference You Can Get From Changing an Integer | [Day15_MaxDiffChangingInteger.java](Day15_MaxDiffChangingInteger.java) | [🔗 LeetCode](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) |
 
 
 
