@@ -23,6 +23,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 15 | 1432. Max Difference You Can Get From Changing an Integer | [Day15_MaxDiffChangingInteger.java](Day15_MaxDiffChangingInteger.java) | [🔗 LeetCode](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/) |
 | 16 | 2016. Maximum Difference Between Increasing Elements | [Day16_MaxDiffIncreasingElements.java](Day16_MaxDiffIncreasingElements.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-difference-between-increasing-elements/) |
 | 17 | 3405. Count the Number of Arrays with K Matching Adjacent Elements | [Day17_CountGoodArraysWithKMatches.java](Day17_CountGoodArraysWithKMatches.java) | [🔗 LeetCode](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| 17 | 2966. Divide Array Into Arrays With Max Difference | [Day18_DivideArrayWithMaxDiff.java](Day18_DivideArrayWithMaxDiff.java) | [🔗 LeetCode](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |
 
 
 
