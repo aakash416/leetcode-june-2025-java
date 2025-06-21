@@ -25,7 +25,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 17 | 3405. Count the Number of Arrays with K Matching Adjacent Elements | [Day17_CountGoodArraysWithKMatches.java](Day17_CountGoodArraysWithKMatches.java) | [🔗 LeetCode](https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | 18 | 2966. Divide Array Into Arrays With Max Difference | [Day18_DivideArrayWithMaxDiff.java](Day18_DivideArrayWithMaxDiff.java) | [🔗 LeetCode](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/) |
 | 19 | 2294. Partition Array Such That Maximum Difference Is K | [Day19_PartitionArrayMaxDiffK.java](Day19_PartitionArrayMaxDiffK.java) | [🔗 LeetCode](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) |
-
+| 20 | 3443. Maximum Manhattan Distance After K Changes | [Day20_MaxManhattanDistanceAfterKChanges.java](Day20_MaxManhattanDistanceAfterKChanges.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/) |
 
 
 
