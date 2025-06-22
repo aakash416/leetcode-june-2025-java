@@ -27,6 +27,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 19 | 2294. Partition Array Such That Maximum Difference Is K | [Day19_PartitionArrayMaxDiffK.java](Day19_PartitionArrayMaxDiffK.java) | [🔗 LeetCode](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) |
 | 20 | 3443. Maximum Manhattan Distance After K Changes | [Day20_MaxManhattanDistanceAfterKChanges.java](Day20_MaxManhattanDistanceAfterKChanges.java) | [🔗 LeetCode](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/) |
 | 21 | 3085. Minimum Deletions to Make String K-Special | [Day21_MinimumDeletionsToMakeStringKSpecial.java](Day21_MinimumDeletionsToMakeStringKSpecial.java) | [🔗 LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) |
+| 22 | 2138. Divide a String Into Groups of Size k | [Day22_DivideStringIntoGroupsOfSizeK.java](Day22_DivideStringIntoGroupsOfSizeK.java) | [🔗 LeetCode](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) |
 
 
 
