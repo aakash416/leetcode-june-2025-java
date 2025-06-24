@@ -29,6 +29,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 21 | 3085. Minimum Deletions to Make String K-Special | [Day21_MinimumDeletionsToMakeStringKSpecial.java](Day21_MinimumDeletionsToMakeStringKSpecial.java) | [🔗 LeetCode](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/) |
 | 22 | 2138. Divide a String Into Groups of Size k | [Day22_DivideStringIntoGroupsOfSizeK.java](Day22_DivideStringIntoGroupsOfSizeK.java) | [🔗 LeetCode](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) |
 | 23 | 2081. Sum of k-Mirror Numbers | [Day23_SumOfKMirrorNumbers.java](Day23_SumOfKMirrorNumbers.java) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-k-mirror-numbers) |
+| 24 | 2200. Find All K-Distant Indices in an Array | [Day24_FindKDistantIndices.java](Day24_FindKDistantIndices.java) | [🔗 LeetCode](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) |
 
 
 
