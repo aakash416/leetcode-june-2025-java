@@ -30,7 +30,9 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 22 | 2138. Divide a String Into Groups of Size k | [Day22_DivideStringIntoGroupsOfSizeK.java](Day22_DivideStringIntoGroupsOfSizeK.java) | [🔗 LeetCode](https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/) |
 | 23 | 2081. Sum of k-Mirror Numbers | [Day23_SumOfKMirrorNumbers.java](Day23_SumOfKMirrorNumbers.java) | [🔗 LeetCode](https://leetcode.com/problems/sum-of-k-mirror-numbers) |
 | 24 | 2200. Find All K-Distant Indices in an Array | [Day24_FindKDistantIndices.java](Day24_FindKDistantIndices.java) | [🔗 LeetCode](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) |
-| 24 | 2040. Kth Smallest Product of Two Sorted Arrays | [Day25_KthSmallestProductSortedArrays.java](Day25_KthSmallestProductSortedArrays.java) | [🔗 LeetCode](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) |
+| 25 | 2040. Kth Smallest Product of Two Sorted Arrays | [Day25_KthSmallestProductSortedArrays.java](Day25_KthSmallestProductSortedArrays.java) | [🔗 LeetCode](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) |
+| 26 | 2311. Longest Binary Subsequence Less Than or Equal to K | [Day26_LongestBinarySubsequenceLEK.java](Day26_LongestBinarySubsequenceLEK.java) | [🔗 LeetCode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) |
+
 
 
 
