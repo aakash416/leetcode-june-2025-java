@@ -32,7 +32,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 24 | 2200. Find All K-Distant Indices in an Array | [Day24_FindKDistantIndices.java](Day24_FindKDistantIndices.java) | [🔗 LeetCode](https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/) |
 | 25 | 2040. Kth Smallest Product of Two Sorted Arrays | [Day25_KthSmallestProductSortedArrays.java](Day25_KthSmallestProductSortedArrays.java) | [🔗 LeetCode](https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays) |
 | 26 | 2311. Longest Binary Subsequence Less Than or Equal to K | [Day26_LongestBinarySubsequenceLEK.java](Day26_LongestBinarySubsequenceLEK.java) | [🔗 LeetCode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) |
-
+| 27 | 2014. Longest Subsequence Repeated k Times | [Day27_LongestSubsequenceRepeatedKTimes.java](Day27_LongestSubsequenceRepeatedKTimes.java) | [🔗 LeetCode](https://leetcode.com/problems/longest-subsequence-repeated-k-times) |
 
 
 
