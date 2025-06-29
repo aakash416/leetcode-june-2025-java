@@ -34,6 +34,7 @@ This repository contains my daily solutions to the LeetCode June 2025 Challenge 
 | 26 | 2311. Longest Binary Subsequence Less Than or Equal to K | [Day26_LongestBinarySubsequenceLEK.java](Day26_LongestBinarySubsequenceLEK.java) | [🔗 LeetCode](https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k) |
 | 27 | 2014. Longest Subsequence Repeated k Times | [Day27_LongestSubsequenceRepeatedKTimes.java](Day27_LongestSubsequenceRepeatedKTimes.java) | [🔗 LeetCode](https://leetcode.com/problems/longest-subsequence-repeated-k-times) |
 | 28 | 2099. Find Subsequence of Length K With the Largest Sum | [Day28_MaxSubsequenceLargestSum.java](Day28_MaxSubsequenceLargestSum.java) | [🔗 LeetCode](https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/) |
+| 29 | 1498. Number of Subsequences That Satisfy the Given Sum Condition | [Day29_NumSubseqSumCondition.java](Day29_NumSubseqSumCondition.java) | [🔗 LeetCode](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition) |
 
 
 
